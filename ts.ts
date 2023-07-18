@@ -29,3 +29,7 @@ console.log(d);
 
 let e: string[] = ['apple', 'mongo'];
 let f: number[] = [1, 2];
+
+function addNumber(a: number, b: number): number {
+  return a + b;
+}
